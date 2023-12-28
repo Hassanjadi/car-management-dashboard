@@ -10,7 +10,7 @@ dalam Database melalui HTTP Request
 
 ## DONE
 - [X] Membuat sebuah HTTP Server dengan menggunakan Express JS
-- [ ] Menerapkan kaidah RESTful API dalam membuat sebuah HTTP Server
+- [X] Menerapkan kaidah RESTful API dalam membuat sebuah HTTP Server
 - [ ] Dapat membuat sebuah HTTP Server yang dapat digunakan untuk melakukan operasi CRUD ke
 dalam Database melalui HTTP Request
-- [ ] Menggunakan TypeScript sebagai bahasa pemrograman
+- [X] Menggunakan TypeScript sebagai bahasa pemrograman
