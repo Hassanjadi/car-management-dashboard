@@ -13,8 +13,7 @@
 - [X] Menggunakan TypeScript sebagai bahasa pemrograman
 
 ## Entity Relationship Diagram
-![ERD](https://gitlab.com/hassanjadi/coba-git/uploads/7e1f1e88a9b1320776d9b8b18a98e9a1/car-management-dashboard.png)
-
+![ERD]([https://gitlab.com/hassanjadi/coba-git/uploads/7e1f1e88a9b1320776d9b8b18a98e9a1/car-management-dashboard.png](https://gitlab.com/hassanjadi/coba-git/-/issues/4#note_1709798831))
 
 ## Endpoint
 ### Backend REST API
