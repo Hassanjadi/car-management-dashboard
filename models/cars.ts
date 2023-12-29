@@ -1,4 +1,4 @@
-import { Model, ModelObject } from "objection";
+import { Model, ModelObject } from 'objection';
 
 export class CarsModel extends Model {
     id!: string;
